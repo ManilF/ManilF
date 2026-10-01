@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there
 
-<!--
-**ManilF/ManilF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- I'm **Manil Ferr**, a Computer Engineering student and Schulich Leader Scholar at McMaster University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My work
+
+- I write firmware for the McMaster Mars Rover Team.
+- I developed and tested a real-time nonlinear model predictive controller for a pneumatic actuator at McMaster.
+- I built an ESP32 drone and am developing an STM32 controller for a six-joint robotic arm.
+
+See more at [manilferr.com](https://manilferr.com), or reach out at [ferrmanilm@gmail.com](mailto:ferrmanilm@gmail.com).
